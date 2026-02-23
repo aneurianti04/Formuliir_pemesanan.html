@@ -184,7 +184,6 @@ input[type="file"] {
         display: block;
         margin-bottom: 10px;
     }
-
     form {
         padding: 15px;
     }
